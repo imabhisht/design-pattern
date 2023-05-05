@@ -1,0 +1,7 @@
+In Linux:
+
+python3 mainproject.py
+
+In Windows:
+
+python mainproject.py
